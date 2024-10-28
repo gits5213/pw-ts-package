@@ -1,6 +1,6 @@
 {
-  "name": "pw-ts-package",
-  "version": "1.0.0",
+  "name": "@gits5213/pw-ts-package",
+  "version": "1.0.1",
   "description": "Typescript generic functions for playwright ts framework",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
